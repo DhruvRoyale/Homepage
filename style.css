@@ -71,6 +71,10 @@ h2, h4 {
     background-image: url(Tambola.png);
 }
 
+#heads-up {
+    background-image: url(HeadsUp.png);
+}
+
 .game span {
     width: 100%;
     height: 16%;
