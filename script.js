@@ -22,9 +22,5 @@ function redirect() {
         case 'tambola':
             window.location.href = "https://dhruvroyale.github.io/Tambola-Number-Generator";
             break;
-
-        case 'heads-up':
-            window.location.href = "https://dhruvroyale.github.io/Heads-Up";
-            break;
     }
 }
